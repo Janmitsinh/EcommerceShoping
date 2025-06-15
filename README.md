@@ -36,15 +36,3 @@ A full-featured **E-commerce Shopping Cart** application built using the **MERN 
   # In frontend/
     npm start
 
-## 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/86b2b538-1db5-4594-aeed-9b896fb19792)
-
-![image](https://github.com/user-attachments/assets/9463aed1-ae7a-49b7-b08e-1d859f5cbfa5)
-
-![image](https://github.com/user-attachments/assets/6ead2cf0-ead9-4943-8704-3cd602c57632)
-
-![image](https://github.com/user-attachments/assets/3ca90078-38ad-48aa-91f0-0d493c458a4d)
-
-
-
