@@ -1,28 +1,50 @@
-# Getting Started with Create React App
+# 🛒 EcommerceShoping
+A full-featured **E-commerce Shopping Cart** application built using the **MERN stack** with **Redux** for state management. This project allows users to browse products, add them to the cart, and simulate a purchase flow. Admins can manage products, users, and orders.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 🚀 Tech Stack
 
-In the project directory, you can run:
+- **Frontend:** React, Redux, React Router, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (Mongoose)
+- **Other Tools:** dotenv, JWT, bcryptjs, concurrently
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Install dependencies
+  Backend
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+        cd backend
+        npm install
 
-### `npm test`
+  Frontend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+        cd ../frontend
+        npm install
 
-### `npm run build`
+## Run the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  Development (concurrently runs frontend + backend)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    npm run dev
+  
+  Or run separately:
+  # In backend/
+    npm start
+
+  # In frontend/
+    npm start
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/86b2b538-1db5-4594-aeed-9b896fb19792)
+
+![image](https://github.com/user-attachments/assets/9463aed1-ae7a-49b7-b08e-1d859f5cbfa5)
+
+![image](https://github.com/user-attachments/assets/6ead2cf0-ead9-4943-8704-3cd602c57632)
+
+![image](https://github.com/user-attachments/assets/3ca90078-38ad-48aa-91f0-0d493c458a4d)
+
+
+
